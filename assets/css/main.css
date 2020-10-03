@@ -155,7 +155,7 @@
 	body, input, select, textarea {
 		color: #ffffff;
 		font-family: 'Nunito Sans', sans-serif;
-		font-size: 14pt;
+		font-size: 12pt;
 		font-weight: 300;
 		line-height: 2;
 	}
@@ -221,7 +221,7 @@
 		}
 
 	h1 {
-		font-size: 1.85em;
+		font-size: 1.25em;
 		margin: 0 0 0.525em 0;
 		color: #ffffff;
 	}
